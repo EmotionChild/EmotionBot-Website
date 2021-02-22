@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/EmotionChild/EmotionBot-Website/issues"
   },
-  "homepage": "https://github.com/EmotionChild/EmotionBot-Website#readme"
+  "homepage": "https://github.com/EmotionChild/EmotionBot-Website#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "react": "^17.0.1"
+  }
 }
